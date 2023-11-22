@@ -1,5 +1,5 @@
 # Believe_in_YourSelf
- ![Imagen del proyecto](https://drive.google.com/drive/u/1/folders/1xONycl5IkpuYGCi79oq3QqZSGxbIM1R5) 
+ ![Imagen del proyecto](https://drive.google.com/file/d/17wWcPz95TfZIhoJVWf9Rzs3Cu33fUKHa/view?usp=sharing) 
 
 ## Ejemplo en vivo
 -
