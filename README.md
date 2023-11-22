@@ -3,7 +3,7 @@
 
 ## Ejemplo en vivo
 
--  ![https://believe-in-yourself.netlify.app](https://believe-in-yourself.netlify.app/) 
+* ![https://believe-in-yourself.netlify.app](https://believe-in-yourself.netlify.app/) 
 
 ## Descripción 📑
  Believe in YourSelf es una web desarrollada en HTML, CSS y JavaScript, Diseñada para reflejar la identidad y valores del gimnasio
