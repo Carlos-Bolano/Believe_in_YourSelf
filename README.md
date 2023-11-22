@@ -2,7 +2,8 @@
  ![Imagen del proyecto](./assets/page.png) 
 
 ## Ejemplo en vivo
--
+
+-  ![https://believe-in-yourself.netlify.app](https://believe-in-yourself.netlify.app/) 
 
 ## Descripción 📑
  Believe in YourSelf es una web desarrollada en HTML, CSS y JavaScript, Diseñada para reflejar la identidad y valores del gimnasio
@@ -14,7 +15,6 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SUIT CSS](https://img.shields.io/badge/SUIT_CSS-205C3B?style=for-the-badge&logo=css3&logoColor=white)](https://suitcss.github.io/)
-
 
 
 ## Autor ✒️
